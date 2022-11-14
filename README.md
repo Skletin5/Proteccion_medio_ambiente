@@ -5,7 +5,7 @@ y corporaciones puede llegar a acabar con toda la vida de nuestro planeta, inclu
 importante concienciar y responsabilizar a las las grandes corporaciónes y ciudadanos de por qué y como
 deben y pueden cuidar del planeta para evitar que las futuras generaciones vivan un mundo practicamente apocaliptico.
 
-#contenidos
+# contenidos
 ## ¿Que es la protección en el medio ambiente?
 ## ¿Cuáles son los riesgos ambientales?
 ## ¿Cuáles son los objetivos de la protección del medio ambiente?
