@@ -6,12 +6,13 @@ importante concienciar y responsabilizar a las las grandes corporaciónes y ciud
 deben y pueden cuidar del planeta para evitar que las futuras generaciones vivan un mundo practicamente apocaliptico.
 
 # contenidos
-## ¿Que es la protección en el medio ambiente?
-## ¿Cuáles son los riesgos ambientales?
-## ¿Cuáles son los objetivos de la protección del medio ambiente?
-## ¿Cómo podemos garantizar la protección del medio ambiente?
+## [¿Que es la protección en el medio ambiente?](que_es.md)
+## [¿Cuáles son los riesgos ambientales?](riesgos.md)
+## [¿Cuáles son los objetivos de la protección del medio ambiente?](objetivos.md)
+## [¿Cómo podemos garantizar la protección del medio ambiente?](garantia.md)
 
 # Referencias
-- Wikipedia
-- El pais
+- [Wikipedia](https://es.wikipedia.org/wiki/Wikipedia:Portada)
+- [El pais](https://elpais.com/)
 # Licencia
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />Este obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">licencia de Creative Commons Reconocimiento-NoComercial 4.0 Internacional</a>.
