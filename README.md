@@ -6,7 +6,7 @@ importante concienciar y responsabilizar a las las grandes corporaciónes y ciud
 deben y pueden cuidar del planeta para evitar que las futuras generaciones vivan un mundo practicamente apocaliptico.
 
 # contenidos
-## [¿Que es la protección en el medio ambiente?](/contenido/que_es.md)
+## [¿Que es la protección en el medio ambiente?](contenido/que_es.md)
 ## [¿Cuáles son los riesgos ambientales?](riesgos.md)
 ## [¿Cuáles son los objetivos de la protección del medio ambiente?](objetivos.md)
 ## [¿Cómo podemos garantizar la protección del medio ambiente?](garantia.md)
