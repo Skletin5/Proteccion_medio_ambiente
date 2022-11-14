@@ -7,9 +7,9 @@ deben y pueden cuidar del planeta para evitar que las futuras generaciones vivan
 
 # contenidos
 ## [¿Que es la protección en el medio ambiente?](/Contenido/que_es.md)
-## [¿Cuáles son los riesgos ambientales?](riesgos.md)
-## [¿Cuáles son los objetivos de la protección del medio ambiente?](objetivos.md)
-## [¿Cómo podemos garantizar la protección del medio ambiente?](garantia.md)
+## [¿Cuáles son los riesgos ambientales?](/Contenido/riesgos.md)
+## [¿Cuáles son los objetivos de la protección del medio ambiente?](/Contenido/objetivos.md)
+## [¿Cómo podemos garantizar la protección del medio ambiente?](/Contenido/garantia.md)
 
 # Referencias
 - [Wikipedia](https://es.wikipedia.org/wiki/Wikipedia:Portada)
